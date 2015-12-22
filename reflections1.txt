@@ -1,0 +1,29 @@
+I know how to use diff, for many years.
+I am familiar with the benefits of diff, and really like visual diff programs.
+I hope we get a chance to use them this course.
+
+People make mistakes. Being able to quickly go back to a known working version helps! You can back out bad code. You can commit changes across multiple files as one atomic operation, as well as back out all the related changes.
+
+commit
+
+Size of commits: I think the advice is too simplistic; I think you should never commit code unless you know it works. I'm guessing that git has branches and branch merging features similar to cvs
+
+Multiple file commits - git is designed to keep track of multi-file software code. Google docs and other systems are more general purpose.
+
+Each commit has a uuid
+
+git log
+
+git diff colorized
+Great command, but I want a GUI version
+
+git clone
+
+git checkout - reset to a commit point
+Good for checking when a bug was introduced. Can be more confident when making changes because I can always go back.
+
+git init - initialize a new repository, with or without files
+
+git status - shows what files have changed since last 
+
+
