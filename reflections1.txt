@@ -26,4 +26,7 @@ git init - initialize a new repository, with or without files
 
 git status - shows what files have changed since last 
 
+git add to add files to staging area - I'm sure the files can be in different directories
+
+
 
