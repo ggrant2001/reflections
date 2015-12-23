@@ -22,11 +22,17 @@ git clone
 git checkout - reset to a commit point
 Good for checking when a bug was introduced. Can be more confident when making changes because I can always go back.
 
+git reset --hard; discards all changes in stage area and working directory!
+
 git init - initialize a new repository, with or without files
 
 git status - shows what files have changed since last 
 
 git add to add files to staging area - I'm sure the files can be in different directories
+
+---
+branches - finally
+
 
 
 
